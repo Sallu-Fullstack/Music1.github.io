@@ -25,7 +25,7 @@ let updateTimer;
 const music_list = [
     {
         img : 'images/stay.png',
-        name : 'Stay',
+        name : 'CoolSong',
         artist : 'The Kid LAROI, Justin Bieber',
         music : 'music/stay.mp3'
     },
